@@ -4,7 +4,7 @@ createApp({
     data() {
         return {
             students: [],
-            name: ''
+            name: '',
         };
     },
     created() {
